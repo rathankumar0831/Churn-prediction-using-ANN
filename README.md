@@ -1,1 +1,1 @@
-# Churn-prediction-using-ANN
+# customer-churn-prediction-using-ANN
